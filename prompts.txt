@@ -1,0 +1,8 @@
+# Sample prompts for ollama_bench.py
+# One prompt per line. Lines starting with # are ignored.
+
+Explain the difference between RAG and fine-tuning for LLM applications.
+Summarize the key causes of the 2008 financial crisis in three sentences.
+Write a Python function that checks if a string is a palindrome.
+What are the main tradeoffs between SQL and NoSQL databases?
+Translate the following to French: The quick brown fox jumps over the lazy dog.
