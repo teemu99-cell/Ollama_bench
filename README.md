@@ -72,7 +72,3 @@ Summarize the key causes of the 2008 financial crisis in three sentences.
 - TTFT includes model load time. If the model is already loaded in memory, this will be near zero.
 - Lex Div is a surface-level heuristic. It does not measure coherence, factual accuracy, or instruction following. For quality evaluation, feed responses to an LLM judge.
 - Run with `--runs 3` or higher to reduce variance, especially for TTFT on cold starts.
-
-## License
-
-MIT
